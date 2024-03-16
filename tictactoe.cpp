@@ -7,6 +7,7 @@
 #include <QGraphicsView>
 #include <QGraphicsItem>
 #include<QPixmap>
+#include <QLineF>
 
 using namespace std;
 
